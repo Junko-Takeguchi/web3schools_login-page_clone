@@ -103,4 +103,6 @@ input{
   #need_text{
     font-size: 0.9rem;
   }
-  
+a{
+    color: #04aa6d;
+  }
